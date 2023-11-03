@@ -4,6 +4,6 @@
 
 **ECG_AutoML_AJH_ver3** : AutoML 기반 최적 모델 개발 코드
 
-**ECG_Ensemble** : 팀원 결과물과의 Ensemble 수행
+**ECG_Ensemble** : 팀원 결과물과의 Ensemble 수행 (최종 결과물)
 
 성적 : 상위 24%
