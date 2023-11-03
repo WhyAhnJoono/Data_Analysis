@@ -10,6 +10,6 @@
 
 **Ensemble_5** : RandomForest 기반 Best Model #1 + #2 Ensemble 수행
 
-**Ensemble_6** : Ensemble_5 + autoML_4 Ensemble 수행
+**Ensemble_6** : Ensemble_5 + autoML_4 Ensemble 수행 (최종 결과물)
 
 성적 : 상위 34%
